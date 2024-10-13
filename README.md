@@ -1,4 +1,4 @@
 # webgyroscopedemo
-a quick html demo (written in google docs) showing how to get gyroscope input thru the web browser.
+a quick and dirty demonstration of how browsers can interact with physical sensors (accelerometer/gyroscope)
 
 https://kianwalsh.github.io/webgyroscopedemo/
